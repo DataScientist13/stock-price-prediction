@@ -122,48 +122,7 @@ The notebook generates visualizations that compare the predicted and actual stoc
 
 Contributions are welcome! If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
 
-### Steps to Contribute:
-1. Fork the project.
-2. Create a new branch for your feature or bugfix.
-3. Commit your changes and push them to your fork.
-4. Submit a pull request to the main repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-### Key Sections Explained:
-
-1. **Project Overview**: Gives a brief description of what the project does and what its objectives are.
-
-2. **Getting Started**: Provides instructions on installing the necessary dependencies and setting up the project on a local machine.
-
-3. **Model Architecture**: Briefly describes the architectures of the CNN and CNN-LSTM models used in the project.
-
-4. **Usage**: Provides step-by-step instructions for running the Jupyter notebook and making modifications as needed.
-
-5. **Results**: Explains what kind of results to expect, how the models are evaluated, and includes placeholders for example plots.
-
-6. **Contributing**: Invites others to contribute to the project by forking the repository and making pull requests.
-
-7. **License**: Indicates the license under which the project is distributed (e.g., MIT License).
-
-### Steps to Add the `README.md` File:
-
-1. Create a new file called `README.md` in the root directory of your repository.
-2. Copy the content of the sample `README.md` file above into the new file.
-3. Stage, commit, and push the file to your repository using the following commands:
-
-```bash
-git add README.md
-git commit -m "Add README file for the Stock Prediction Project"
-git push origin master
-```
-
-This will upload the `README.md` file to your repository and display it on your GitHub project page.
-
-Let me know if you need further assistance!
 
 
 
