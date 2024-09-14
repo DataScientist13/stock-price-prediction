@@ -38,5 +38,4 @@ The hybrid **ARIMA + XGBoost** approach outperforms CNN and CNN-LSTM models in s
 
 ## How to Run:
 1. Clone this repository.
-2. Install dependencies using `pip install -r requirements.txt`.
-3. Run `stock_prediction.py` to train models and evaluate results.
+2. Run `stock_prediction.py` to train models and evaluate results.
